@@ -9,7 +9,7 @@ To see why and for what this was created, please read [Boobs - YOLO BBox Annotat
 ## USAGE
 1. Download the zip.
 2. Extract it.
-3. Open `boobs.html` in your browser.
+3. Open `IMAGES.html` in your browser.
 4. Load images and classes and start bboxing!
 
 ## CONFIGURATION
